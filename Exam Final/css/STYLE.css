@@ -1,0 +1,143 @@
+
+
+
+
+
+h1 {
+ font-family: "Open Sans", sans-serif;
+  float: left;
+}
+
+
+
+-------------------
+
+
+
+
+.image-gallery{
+padding-left: 420px;
+padding-top : -90px;
+}
+
+
+
+
+
+
+-------------------------------------
+.text1{
+  font-family: "Open Sans", sans-serif;
+color: black;
+background-color: orange;
+position:relative;
+ right:50px; 
+ top:-20px;
+/* text-combine-upright: all;*/
+}
+--------------------------------------
+
+
+
+/*.container1 {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 5px;
+ }
+ 
+ img {
+   max-width: 40%;
+   max-height:30%;
+ }
+ 
+ .text {
+   font-size: 16px;
+ }
+*/
+ ---------------------------------
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: #125784;
+}
+.site-header {
+    border-bottom: 1px solid #125784;
+    padding: 0.5em 1em;
+    display: flex;
+    justify-content: space-between;
+    color: #125784;
+}
+.site-identity h1 {
+    font-size: 1.5em;
+    margin: 0.6em 0;
+    display: inline-block;
+    color: #125784;
+}
+.site-navigation ul,
+.site-navigation li {
+  color: #125784;
+    margin: 0;
+    padding: 0;
+}
+.site-navigation li {
+    display: inline-block;
+    margin: 1.4em 1em 1em 1em;
+    color: #125784;
+}
+
+
+
+body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Avenir', sans-serif; 
+  color: #33475b;    
+}
+  /* 
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 1000px;
+    background-color: rgb(177,63,84);
+    text-align: center;
+    color: #070606;
+    border: #000000;
+  }
+  
+  .navbar a {
+    float: center;
+    color: #000000;
+    text-align: center;
+
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    background-color: #020101;
+    color: rgb(177,63,84);
+  }
+
+.header1 {
+text-align: center;
+}
+This is the bar at the top of your screen */
+/*text box*/
+footer {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+
+
+
+
